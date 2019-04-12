@@ -83,6 +83,18 @@ ready: true
 
   </td>
 </tr>
+
+<tr>
+  <td>
+  <img src="/s19/info/mentorPhotos/ps.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Pushkar Shukla (TA)</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major:Computer Science <br/>
+    Previous experience as a TA/Tutor: I have previously been a TA for CS 165 A (Introduction to Artificial Intelligence) , CS 156 (Computer Architecture), CS 111 ( Numerical Computing Methods ).<br/>
+  <i>"I'm a 2nd year master's student in the Computer Science department. I am currently working under in the Four Eyes Lab and being coadivsed by Dr. Matthew Turk and Dr. William Wang. My research focuses on visual question generation and visual dialogue. I primarliy work in the area of computer vision and natural language processing. Please feel free to contact me if you have any queries. "</i>
+  </td>
+</tr>
+<tr>
 </table>
 
 
@@ -98,6 +110,8 @@ ready: true
 
     Location: Collaboratory
     Time: TBD, or by appointment
+    
+    
 
 **Open labs**: All open labs will be held in **the Collaboratory** on the 2nd floor of the Library. Open labs will be open for walk-in help: see the schedule below for more information.
 
